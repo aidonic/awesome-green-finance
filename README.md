@@ -57,6 +57,16 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Data sources on green projects and climate impact.*
 
+## Data Sources
+
+*Acredited data sources*
+
+## Data Tools
+
+*Tools for exploring green projects and climate impact data.*
+
+* [worldbank maps](https://maps.worldbank.org/) - You use GreenCoin - We finance Green Technologies.
+
 
 ## Grants
 
@@ -88,11 +98,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Recommendations of the Task Force on Climate-related Financial Disclosures](https://www.fsb-tcfd.org/wp-content/uploads/2017/06/FINAL-TCFD-Annex-062817.pdf)
 
 
-## Data Tools
-
-*Tools for exploring green projects and climate impact data.*
-
-* [worldbank maps](https://maps.worldbank.org/) - You use GreenCoin - We finance Green Technologies.
+## Data Sources
 
 
 # Other Resources
